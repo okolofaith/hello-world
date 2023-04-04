@@ -1,4 +1,4 @@
-# hello-world
+# hello-world!
 My first repository on Github. Just learning how to use this platform.
 <h1> ABOUT OKOLO FAITH </h1>
 <p> Okolo Faith is a Google certified UX Designer, very inquistive and intrigued with learning more about the world of Technology </p><br>
